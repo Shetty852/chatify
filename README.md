@@ -35,7 +35,6 @@ Chatify is a modern web-based chat application designed to facilitate real-time 
    git clone https://github.com/username/chatify.git
 2.Configure the database connection in config.php:
 $hostname = "localhost";
-- gg
 $username = "root";
 $password = "";
-$dbname = "chatify";
+-$dbname = "chatify";
