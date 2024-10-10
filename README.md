@@ -37,4 +37,4 @@ Chatify is a modern web-based chat application designed to facilitate real-time 
 $hostname = "localhost";
 $username = "root";
 $password = "";
--$dbname = "chatify";
+$dbname = "chatify";
